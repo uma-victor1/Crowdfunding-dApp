@@ -1,0 +1,11 @@
+/home/madfinger/Desktop/Projects/crowdfundDapp/contract/target/wasm32-unknown-unknown/release/deps/wee_alloc-b82b84ed0129c3d4.rmeta: /home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs /home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs /home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs /home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs /home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_wasm32.rs
+
+/home/madfinger/Desktop/Projects/crowdfundDapp/contract/target/wasm32-unknown-unknown/release/deps/libwee_alloc-b82b84ed0129c3d4.rlib: /home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs /home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs /home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs /home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs /home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_wasm32.rs
+
+/home/madfinger/Desktop/Projects/crowdfundDapp/contract/target/wasm32-unknown-unknown/release/deps/wee_alloc-b82b84ed0129c3d4.d: /home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs /home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs /home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs /home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs /home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_wasm32.rs
+
+/home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs:
+/home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs:
+/home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs:
+/home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs:
+/home/madfinger/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_wasm32.rs:

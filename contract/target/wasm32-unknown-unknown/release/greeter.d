@@ -1,0 +1,1 @@
+/home/madfinger/Desktop/Projects/crowdfundDapp/contract/target/wasm32-unknown-unknown/release/greeter.wasm: /home/madfinger/Desktop/Projects/crowdfundDapp/contract/src/lib.rs /home/madfinger/Desktop/Projects/crowdfundDapp/contract/src/models.rs /home/madfinger/Desktop/Projects/crowdfundDapp/contract/src/utils.rs
