@@ -47147,10 +47147,12 @@ function App() {
   }, // The second argument to useEffect tells React when to re-run the effect
   // Use an empty array to specify "only run on first render"
   // This works because signing into NEAR Wallet reloads the page
-  []); // if not signed in, return early with sign-in prompt
+  [crowdfunds]); // if not signed in, return early with sign-in prompt
 
   if (!window.walletConnection.isSignedIn()) {
-    return /*#__PURE__*/_react.default.createElement("main", null, /*#__PURE__*/_react.default.createElement("h1", null, "Welcome to Paradis"), /*#__PURE__*/_react.default.createElement("p", {
+    return /*#__PURE__*/_react.default.createElement("main", {
+      className: "signin"
+    }, /*#__PURE__*/_react.default.createElement("h1", null, "Welcome to Paradis"), /*#__PURE__*/_react.default.createElement("p", {
       style: {
         textAlign: 'center'
       }
