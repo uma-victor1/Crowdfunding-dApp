@@ -4,12 +4,12 @@ function CreateCrowdfund({toggleModal}) {
   const [title, setTitle] = useState('')
   const [description, setDescription] = useState('')
   const [target, setTarget] = useState(0)
-  const [showVoteNotification, setShowVoteNotification] = useState(false)
+  const [showNotification, setShowNotification] = useState(false)
 
   const handleSubmit = (event) => {
     event.preventDefault()
     window.contract.add_crowdfund({title:title, donate:target * 1, description:description})
-    setShowVoteNotification(!showVoteNotification)
+    setShowNotification(!showNotification)
     alert(`crowdfund info: ${title} ${target} ${description}`)
   }
 console.log(`its ${toggleModal}`);
@@ -47,12 +47,12 @@ console.log(`its ${toggleModal}`);
         </div>
       )}
       
-      {showVoteNotification && <VoteNotification />}
+      {showNotification && <Notification />}
     </div>
     
   )
 }
-function VoteNotification() {
+function Notification() {
   return (
     <aside>
       <footer>
