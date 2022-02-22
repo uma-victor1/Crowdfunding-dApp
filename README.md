@@ -3,6 +3,7 @@ crowdfundDapp
 
 This [React] app was initialized with [create-near-app]
 
+![](https://paper-attachments.dropbox.com/s_6663B3E85151DBD5BD66114327FA68CBB8E9D8C0AC631CAC16FA01B63E05A7E0_1644200184317_projectimg.png)
 
 Quick Start
 ===========
